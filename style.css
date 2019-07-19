@@ -4,8 +4,13 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+   
 }
 
+form {
+    color: blue;
+    font-color: white;
+    
 .hidden {
     display:none;
 }
